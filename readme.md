@@ -1,6 +1,6 @@
 ___
 SETUP INSTRUCTIONS
-1. Have docker installed and up running.
+1. Type "npm install" to install the node modules. Have docker installed and up running.
 2. Run "docker compose up" in the terminal. This starts the server session.
 3. Open Postman application. 
 4. Set it to "raw" and "JSON" as body type (it should be there by default)
@@ -112,6 +112,7 @@ FUTURE IMPROVEMENTS
 AUTHOR
 Wishva Mufzal B. Shah  
 Software Engineering Student
+
 
 
 
